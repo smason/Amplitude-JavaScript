@@ -3862,7 +3862,7 @@ module.exports = uuid;
 
 }, {}],
 8: [function(require, module, exports) {
-module.exports = '2.9.0';
+module.exports = '3.0.0-beta';
 
 }, {}],
 9: [function(require, module, exports) {
