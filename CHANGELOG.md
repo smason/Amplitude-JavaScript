@@ -1,3 +1,7 @@
+### Unreleased
+
+* Added `trackingOptions` as a configuration option. This allows you to disable the automatic tracking of specific user properties such as ip_address, city, country, etc. See the [Help Center Documentation](https://amplitude.zendesk.com/hc/en-us/articles/115001361248#settings-configuration-options) for instructions on setting up th is configuration.
+
 ### 4.3.0 (July 16, 2018)
 
 * Add more context to the 'No request sent' responses
